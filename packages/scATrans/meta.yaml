@@ -6,7 +6,7 @@ description: |
   enrichment, and visualization workflows through scanpy-compatible APIs.
 project_home: https://github.com/leelieber2025/scATrans
 documentation_home: https://scatrans.readthedocs.io/
-tutorials_home: https://scatrans.readthedocs.io/en/latest/tutorials/index.html
+tutorials_home: https://scatrans.readthedocs.io/page/tutorials/index.html
 install:
   pypi: scatrans
   conda: bioconda::scatrans
